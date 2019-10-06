@@ -1,12 +1,12 @@
 bio:
-  name: Leandro Crescencio
+  name: Christian Gonçalves
   title: QA Automation Engineer
   avatar: profile.jpg
-  email: leandrocrescencio@gmail.com
-  telephone: +55 51 981017120
-  website: leandrocrescencio.github.io/
-  linkedin: leandrocrescencio
-  github: leandrocrescencio
+  email: christiangoncalves@outlook.com
+  telephone: +55 51 981585142
+  website: christiandpg.github.io/
+  linkedin: christiandpg
+  github: christiandpg
   gitlab: leandrocrescencio
   twitter: crescemoreira
   facebook: leandrocrescencio
@@ -15,132 +15,98 @@ bio:
 summary:
   title: Profile
   description: |
-    Professional with 8+ years of experience with an emphasis on software quality, working with automated and manual testing, from specification to execution.
-    Great knowledge about the main management tools, like Rational Quality Manager, Microsoft Test Manager, Team Foundation Server. 
-    Bug analytic reports and root cause analysis for metrics and team improvements.
-    Able to work as an independent and in global distributed team environments.
-    Highly motivated and enthusiastic in the Agile/Scrum and Iterative software development process.
-    Solid experience in teams from the financial sector.
+    QA Automation Engineer, with 9 years experienced in IT market and acting in medium and large companies.
+    Knowledge related to various processes of software engineering, as well as business areas: health, industrial, metallurgy, retail, fiscal, ecommerce, banking.
+    At the last years focused in development of automated testing for Web, Desktop, Mobile applications, Webservices and Databases using large variety of tools and technologies available.
+    Also have experience in teaching courses about Test Automation.
 history:
   title: Experience
   roles:
     - position: Senior QA Automation Engineer
-      company: Codelink US
-      location: Porto Alegre, BR
-      time: 03-2019 – Present
+      company: Venuetize
+      location: Tampa, FL
+      time: 10-2018 – Present
       description: |
-         - Working remote along teams from US and Australia.
-         - Specification of Plans, Scenarios, and Test Cases. Creation and execution of software tests for web applications developed in Angular JS
-         - Automation tests using Java and Selenium Webdriver.
+         - Automation of test scenarios for native Android and iOS apps.
+         - Specification of Plans, Scenarios, and Test Cases. Creation and execution of software tests for mobile applications.
          - Back-end and UI tests.
          - Test and Defect Project Management.
+         - Responsible for all QA lifecycle.
       achivements: |
-        * Complete framework for the responsive applications from the product.
+        * Complete framework for the mobile applications from the product.
       technologies:
         - name: Java
         - name: Selenium Webdriver
-        - name: MySQL
-        - name: GIT
-        - name: Gradle
-        - name: RestAssured
+        - name: Appium
+        - name: Git
+        - name: Maven
+        - name: Selenium Hub
         - name: TestNG
 
-    - position: Senior Test Analyst
+    - position: Senior QA Automation Engineer
       # page_break: true
-      company: Datum TI
+      company: CWI Software
       location: Porto Alegre, BR
-      time: 01-2019 - 03-2019
+      time: 03-2016 - 10-2018
       description: |
-         - Acting as a Test Architect for the software projects inside the company.
-         - Assisting in the definition of the strategy for test teams, implementation of testing tools and automation tools. Clients mostly from the financial sector.
-         - Specification of Plans, Scenarios, and Test Cases. 
-         - Creation and execution of software tests. 
-         - Automation tests for SOA/Rest services, and UI automation.
-         - Test and Defect Project Management.
-         - Planning and estimation of demands. 
-         - Automation testing using Soap UI and RestAssured (for backend and integration)
-         - Planning and execution of performance and load tests.
+         - Automation of test scenarios for Android, iOS and Hybrid apps, Web applications, Desktop applications, webservices and database, using the most diverse tools and technologies available in the market.
+         - Configuration and management of CI (continuous integration) with Jenkins and TeamCity.
+         - Conducting internal training and technical interviews.
       technologies:
         - name: Java
-        - name: Soap UI
-        - name: RestAssured
-        - name: Oracle
-        - name: SQL Server
+        - name: Groovy
+        - name: Python
+        - name: C#
         - name: Selenium Webdriver
         - name: TestNG
         - name: JUnit
+        - name: NUnit
+        - name: pytest
         - name: Maven
-        - name: Jira
+        - name: Gradle
+        - name: Appium
+        - name: Cucumber
+        - name: Specflow
+        - name: Behave
+        - name: SoapUI
+        - name: Sikuli
+        - name: Oracle
+        - name: MongoDB
 
-    - position: QA Automation Analyst
-      company: DBSERVER
+    - position: QA Automation Engineer
+      company: Stefanini
       location: Porto Alegre, RS
-      time: 10-2016 – 01-2019
+      time: 05-2015 – 01-2016
       description: |
-         - Outsourcing at: Bank Sicredi (Accounts Agile Team)
-         - Agile Methods, SCRUM, LEAN, Kanban and all related ceremonies.
-         - Specification of Plans, Scenarios, and Test Cases. Creation and execution of software tests for applications developed in Clipper and Java (Web and Services). 
-         - Automation tests for SOA/Rest services, and automation of functional tests for the financial core system and some WEB applications.
-         - Test and Defect Project Management.
-         - Planning and estimation of demands.
-         - Automation testing in Java (for clipper applications).
-         - Automation testing in Java plus Selenium (for web applications).
-         - Maintenance for the RFT framework. 
-         - Automation testing using Soap UI and RestAssured (for backend and integration)
-      achivements: |
-        * Complete framework for Clipper applications using Java (Sikuli + AutoIt)
-        * Member of the DevOps team as automation coach for new teams.
+         - Automation of test scenarios using Selenium, Java and OATS (Oracle Application Test Suite). 
+         - Manual testing, as well as creating all the artifacts involved. 
+         - Acting in a global project for the Dell client using agile methodology (SCRUM) in projects and teams in India and the USA.
       technologies:
         - name: Java
-        - name: Soap UI
-        - name: RestAssured
+        - name: Selenium Webdriver
+        - name: Oracle Application Test Suite
         - name: Oracle
         - name: PL/SQL
-        - name: Selenium Webdriver
-        - name: TestNG
+        - name: SoapUI
         - name: JUnit
         - name: Maven
-        - name: Sikuli
-        - name: AutoIT
-        - name: GIT
-        - name: ODI
-        - name: RFT
-        - name: VirtualBox
-        - name: Subversion
-        - name: RQM
-        - name: RTC
+        - name: TFS
 
-    - position: QA Automation Analyst
-      company: DBSERVER
+    - position: Software QA Analyst
+      company: DBC Company
       location: Porto Alegre, RS
-      time: 11-2015 – 10-2016
+      time: 08-2014 – 05-2015
       description: |
-        - Outsourcing at: Dell DFS (Dell Financial Services) 
-        - Risk Management - Credit and Fraud Team
-        - Agile Methods, SCRUM, SAFe and all related ceremonies.
-        - Specification of Plans, Scenarios and Test Cases. Creation and execution of software tests for applications developed in .Net, PL/SQL, Oracle, SOAP e REST.
-        - Expertise with the Test Lead role, for some legislative projects.
-        - Support UAT team for post-deployment issues.
-        - Able to work to a high degree of details
-        - Test and Defect Project Management.
-        - Planning and estimation of demands.
-        - Automation testing in C# (SOA services integration). 
-        - Maintenance into the Soap UI automation and migrate it to C#.
+        - Testing and writing test artifacts in various business areas (industrial, retail, metallurgy). 
+        - Estimates of testing on innovation projects and legacy system fixes. 
+        - Manual tests on BI Microstrategy and ODI (Oracle Data Integrator).
         
       technologies:
-        - name: C#
-        - name: Soap UI
         - name: Oracle
         - name: SQL Server
-        - name: Selenium Webdriver
-        - name: JUnit
-        - name: TOAD
-        - name: Sikuli
-        - name: AutoIT
         - name: TFS
-        - name: MTM
-        - name: Visual Studio
-        - name: ADEPT
+        - name: BI Microstrategy
+        - name: ODI
         
     - position: QA Analyst
       company: BANK AGIPLAN (AGIBANK)
