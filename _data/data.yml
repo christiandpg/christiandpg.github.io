@@ -7,9 +7,6 @@ bio:
   website: christiandpg.github.io/
   linkedin: christiandpg
   github: christiandpg
-  gitlab: christiandpg
-  twitter: johnnytweeter
-  stackoverflow: 890226/johnnyststacker
 
 summary:
   title: Career Profile
@@ -81,16 +78,10 @@ history:
         Acting in a global project for the Dell client using agile methodology (SCRUM) in projects and teams in India and the USA.
 
       technologies:
-        - name: JavaScript
-        - name: Vue.js
-        - name: Webpack
-        - name: MongoDB
-
-      achivements: |
-        Highlights here
-        * Thing 1
-        * Thing 2
-          - Sub Thing 1
+        - name: Java
+        - name: Selenium Webdriver
+        - name: Oracle
+        - name: Oracle Application Test Suite
 
     - position: Software QA Analyst
       company: DBC Company
@@ -101,10 +92,11 @@ history:
         Manual tests on BI Microstrategy and ODI (Oracle Data Integrator).
 
       technologies:
-        - name: JavaScript
-        - name: Vue.js
-        - name: Webpack
-        - name: MongoDB
+        - name: Oracle
+        - name: SQL Server
+        - name: BI Microstrategy
+        - name: TFS
+        - name: Sikuli
 
     - position: Software QA Analyst
       company: TOTVS
@@ -115,10 +107,9 @@ history:
         team and assigning tasks to the testers.
 
       technologies:
-        - name: JavaScript
-        - name: Vue.js
-        - name: Webpack
-        - name: MongoDB
+        - name: Oracle
+        - name: SQL Server
+        - name: TFS
 
 skills:
     - name: Java
