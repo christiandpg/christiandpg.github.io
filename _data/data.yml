@@ -6,11 +6,7 @@ bio:
   telephone: +55 51 981585142
   website: christiandpg.github.io/
   linkedin: christiandpg
-  github: christiandpg
-  gitlab: leandrocrescencio
-  twitter: crescemoreira
-  facebook: leandrocrescencio
-  stackoverflow: 
+  github: christiandpg 
 
 summary:
   title: Profile
@@ -75,7 +71,7 @@ history:
 
     - position: QA Automation Engineer
       company: Stefanini
-      location: Porto Alegre, RS
+      location: Porto Alegre, BR
       time: 05-2015 – 01-2016
       description: |
          - Automation of test scenarios using Selenium, Java and OATS (Oracle Application Test Suite). 
@@ -94,7 +90,7 @@ history:
 
     - position: Software QA Analyst
       company: DBC Company
-      location: Porto Alegre, RS
+      location: Porto Alegre, BR
       time: 08-2014 – 05-2015
       description: |
         - Testing and writing test artifacts in various business areas (industrial, retail, metallurgy). 
@@ -108,142 +104,73 @@ history:
         - name: BI Microstrategy
         - name: ODI
         
-    - position: QA Analyst
-      company: BANK AGIPLAN (AGIBANK)
-      location: Porto Alegre, RS  
-      time: 11-2014 – 11-2015
+    - position: Software QA Analyst
+      company: TOTVS
+      location: Porto Alegre, BR  
+      time: 10-2010 – 10-2014
       description: |
-        - Technical Test Team Leader. 
-        - Responsible for allocation the QA team members through the backlog tasks. 
-        - Planning, Design, specification, and execution of scenarios, testing plan and test cases for applications developed in GeneXus, .Net, SQL Server, PostgreSQL, SSiS/ETL, CSS, JavaScript, SOAP, Telecom projects (URA and AVAYA), Information Security and networks projects. 
-        - Test and Defect Project Management. 
-        - ITIL Change Management, experience at coordination the deliverables from QA team to production.
-        - Successfully worked with the change management team to ensure all compliance documents, builds, artifacts, and sign-off are obtained before deployment.
-        - Responsible for the first POC of automation testing with C# and Selenium to test web applications.
-        - Responsible for the management and configuration of tests environments.
-          
+        - Work on health business area, with systems for small clinics and large hospitals in Brazil. 
+        - Informal leadership, making estimates to the development team and assigning tasks to the testers.
       technologies:
-        - name: Postman
-        - name: Soap UI
         - name: Oracle
         - name: SQL Server
-        - name: Selenium Webdriver
-        - name: C#
-        - name: Visual Studio
-        - name: Mantis
-        - name: TestLink
-
-    - position:  Software Test Analyst
-      company: DBSERVER
-      location: Porto Alegre, RS  
-      time: 07-2013 – 11-2014
-      description: |
-        - Outsourcing at: Bank Banrisul - Software Quality Implementation. 
-        - Test leader of the Financials Services and Core Banking team. 
-        - Responsible for allocation the QA team members through the backlog tasks.
-        - Support the HR area in interviews and evaluation from candidates.
-        - Test Project Management (Planning and Estimation) 
-        - Test Backlog management
-        - Planning, specification, and execution of scenarios, testing plans and test cases. 
-        - Responsible for the management and configuration of tests environments (servers, ATM, TM, accounts, cards, others.)
-        - Responsible for monitoring and maintaining quality and compliance target for software testing
-        - Responsible for attending requirements meetings and support business user
-        - Test data generation. 
-        
-      technologies:
-       - name: Mantis
-       - name: TestLink
-       - name: Sharepoint
-       - name: Subversion
-
-    - position:  Development Analyst
-      company: VIAFLOW
-      location: Porto Alegre, RS  
-      time: 08-2011 – 07-2013
-      description: |
-        - Software development of solutions with IBM Lotus Notes and Domino Software.
-        - Software development focused on Java-web, using Java/JSP and Javascript.
-        - User-Interfaces development and software modeling.
-        - Development and maintenance of workflows applications using LotusScript and Visual Basic.
-        - Business analysis to support vendor of IBM software such as IBM Content Collector, IBM eDiscovery Solutions, responsible for training and mentoring (knowledge transfer) to clients.
-        - Internal process work, creation, and maintenance of commercial and administrative reports from the company (CRM, payroll, hours management, etc.)
-        - Tester (designated developer) 
-          - Planning, Design, specification, and execution of scenarios, testing plan and test cases, Functional Testing, Usability Testing, Acceptance Testing, Interface and security tests. Automation testing (migration e-mails to the cloud).
-          - Document / Artifact creation and maintenance (scenarios, test cases, plans, metrics, and estimates) using Quickr with SVN as the repository.
-          - Elaboration of Defect Reports, Metric Reports, and Incidents Reports. 
-      achivements: |
-        * Certification - IBM Lotus Notes & Domino Technical Sales Professional v2 (2013)
-         
-      technologies:
-       - name: Java
-       - name: Java EE
-       - name: JSP
-       - name: JavaScript
-       - name: VBScript
-       - name: LotusScript
-       - name: Lotus Notes
-       - name: Lotus Domino
-       - name: DBMS
-       - name: SQL Server
-       - name: Subversion
-       - name: CVS
+        - name: TFS
        
-
-
-
 skills:
-  frontend:
+  testing frameworks:
     - name: Selenium WebDriver
       percentage: 99
-    - name: Protractor
-      percentage: 50
+    - name: Appium
+      percentage: 90
     - name: Cucumber
-      percentage: 50
+      percentage: 80
       
-  backend:
+  programming languages:
     - name: Java
       percentage: 80
-    - name: RestAssured
-      percentage: 90
-    - name: Soap UI
-      percentage: 99
-    - name: PostMan
-      percentage: 85
-    - name: SQL
-      percentage: 90
-    - name: Ruby
-      percentage: 30
+    - name: Python
+      percentage: 50
+    - name: Groovy
+      percentage: 50
     - name: C#
-      percentage: 75
+      percentage: 40
+    - name: Ruby
+      percentage: 40
+
+  databases:
+    - name: Oracle
+      percentage: 80
+    - name: SQL Server
+      percentage: 80
+    - name: MongoDB
+      percentage: 875
+
+  ci:
+    - name: Jenkins
+      percentage: 80
+    - name: TeamCity
+      percentage: 30
 
   other:
-    - name: Ubuntu Linux
-    - name: Windows 10
-    - name: JIRA
-    - name: Scrum
-    - name: SAFE
-    
-awards:
-  - name: ISTQB-CTFL
-    description: |
-      License 17-CTFL-06073-BR
-  - name: Scrum Alliance CSM
-    description: License 000635683
-
+    - name: Mac OS
+    - name: Linux Ubuntu
+    - name: Ant
+    - name: Gradle
+    - name: Maven
 
 education:
-  - degree: MSc in Computer Science
-    name: University of Santa Maria
-    time: 2009 - 2011 [Unfinished]
-  - degree: BSc in Computer Science
-    name: UNIFRA
-    time: 2005 - 2008
+  - degree: BSc in Information Technology Management
+    name: Centro Universitario Maringá
+    time: 2019 - 2021 [In progress]
+  - degree: BSc in Computer Engineering
+    name: PUCRS
+    time: 2013 - 2019 [Unfinished]
 
 languages:
   - name: Portuguese
     proficiency: Native
   - name: English
-    proficiency: Professional
+    proficiency: Advanced
     
 
 interests:
