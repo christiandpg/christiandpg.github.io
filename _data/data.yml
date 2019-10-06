@@ -4,7 +4,7 @@ bio:
   avatar: profile.jpg
   email: christiangoncalves@outlook.com
   telephone: +55 51 981585142
-  website: johndoe.blogger.com
+  website: christiandpg.github.io/
   linkedin: christiandpg
   github: christiandpg
   gitlab: christiandpg
@@ -14,73 +14,72 @@ bio:
 summary:
   title: Career Profile
   description: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+    QA Automation Engineer, with 9 years experienced in IT market and acting in medium and large companies. 
+    Knowledge related to various processes of software engineering, as well as business areas: health, industrial, metallurgy, retail, fiscal, ecommerce, banking. 
+    At the last years focused in development of automated testing for Web, Desktop, Mobile applications, Webservices and Databases using large variety of tools and 
+    technologies available. Also have experience in teaching courses about Test Automation.
 
 history:
   title: Experience
   roles:
     - position: Sr QA Automation Engineer
-      company: Startup Hubs
-      location: San Francisco, CA
-      time: 2015 - Present
+      company: Venuetize
+      location: Tampa, FL
+      time: 2018 - Present
       description: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Acting as Contractor for Venuetize [100% remote] 
+        Automation of test scenarios for native Android and iOS apps. 
+        Responsible for all QA lifecycle.
 
-          - Bullet point
-          - Bullet point
       technologies:
         - name: Java
-        - name: Spring
-        - name: Tomcat
-        - name: MySQL
+        - name: Selenium Webdriver
+        - name: Appium
+        - name: github
+        - name: maven
+        - name: TestNG
 
-    - position: Senior Software Engineer
+    - position: Sr QA Automation Engineer
       # page_break: true
-      company: Google
-      location: London
-      time: 2014 - 2015
+      company: CWI Software
+      location: Porto Alegre, BR
+      time: 2016 - 2018
       description: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Automation of test scenarios for Android, iOS and Hybrid apps, Web applications, Desktop applications, webservices and database, using the most diverse tools and 
+        technologies available in the market. Configuration and management of CI (continuous integration) with Jenkins and TeamCity. 
+        Conducting internal training and technical interviews.
 
-          - Bullet point
-          - Bullet point
       technologies:
-        - name: Go
         - name: Java
-        - name: Spring
-        - name: Kubernetes
+        - name: Groovy
+        - name: Python
+        - name: C#
+        - name: Selenium Webdriver
+        - name: Appium
+        - name: JUnit
+        - name: TestNG
+        - name: NUnit
+        - name: pytest
+        - name: Git
+        - name: TFS        
+        - name: Spock
+        - name: Cucumber
+        - name: Specflow
+        - name: Behave
+        - name: Sikuli
+        - name: Jmeter
+        - name: Jenkins
+        - name: TeamCity
 
-    - position: UI Developer
-      company: Amazon
-      location: London
-      time: 2012 - 2014
+
+    - position: QA Automation Engineer
+      company: Stefanini
+      location: Porto Alegre, BR
+      time: 2015 - 2016
       description: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Automation of test scenarios using Selenium, Java and OATS (Oracle Application Test Suite). Manual testing, as well as creating all the artifacts involved. 
+        Acting in a global project for the Dell client using agile methodology (SCRUM) in projects and teams in India and the USA.
 
-          - Bullet point
-          - Bullet point
       technologies:
         - name: JavaScript
         - name: Vue.js
@@ -93,41 +92,61 @@ history:
         * Thing 2
           - Sub Thing 1
 
+    - position: Software QA Analyst
+      company: DBC Company
+      location: Porto Alegre, BR
+      time: 2014 - 2015
+      description: |
+        Testing and writing test artifacts in various business areas (industrial, retail, metallurgy). Estimates of testing on innovation projects and legacy system fixes. 
+        Manual tests on BI Microstrategy and ODI (Oracle Data Integrator).
+
+      technologies:
+        - name: JavaScript
+        - name: Vue.js
+        - name: Webpack
+        - name: MongoDB
+
+    - position: Software QA Analyst
+      company: TOTVS
+      location: Porto Alegre, BR
+      time: 2010 - 2014
+      description: |
+        Work on health business area, with systems for small clinics and large hospitals in Brazil. Informal leadership, making estimates to the development 
+        team and assigning tasks to the testers.
+
+      technologies:
+        - name: JavaScript
+        - name: Vue.js
+        - name: Webpack
+        - name: MongoDB
+
 skills:
-  frontend:
-    - name: JavaScript
-      percentage: 70
-    - name: HTML5
+    - name: Java
+      percentage: 80
+    - name: Groovy
       percentage: 60
-    - name: Sass
-      percentage: 50
-  backend:
-    - name: Java 8
-      percentage: 100
-    - name: Bash
-      percentage: 95
     - name: Python
-      percentage: 80
-    - name: Flask &amp; SQLAlchemy
-      percentage: 80
+      percentage: 60
+    - name: C#
+      percentage: 50
     - name: Ruby
       percentage: 50
-    - name: Go
-      percentage: 15
-    - name: Elixir
-      percentage: 10
-    - name: C/C++
-      percentage: 5
+    - name: Selenium Webdriver
+      percentage: 100
+    - name: Web Test Automation
+      percentage: 100
+    - name: Mobile Test Automation
+      percentage: 95
+    - name: Backend Test Automation
+      percentage: 80
 
   other:
-    - name: Linux (Debian &amp; Fedora variants)
+    - name: Linux
     - name: macOS
-    - name: Windows 10
-    - name: Sketch
     - name: JIRA
     - name: Scrum
-    - name: Docker
-    - name: Vagrant
+    - name: Maven
+    - name: Gradle
 
 education:
   - degree: MSc in Computer Science
@@ -148,11 +167,9 @@ awards:
 
 languages:
   - name: English
+    proficiency: Advanced
+  - name: Portuguese
     proficiency: Native
-  - name: French
-    proficiency: Professional
-  - name: Spanish
-    proficiency: Professional
 
 interests:
   - name: Hiking
