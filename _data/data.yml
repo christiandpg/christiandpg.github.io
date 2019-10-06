@@ -1,13 +1,13 @@
 bio:
-  name: John Doe
-  title: An Awesome Developer
+  name: Christian Gonçalves
+  title: QA Automation Engineer
   avatar: profile.jpg
-  email: john@doe.com
-  telephone: 012 345 6789
+  email: christiangoncalves@outlook.com
+  telephone: +55 51 981585142
   website: johndoe.blogger.com
-  linkedin: johndoe
-  github: johnnycoder
-  gitlab: johnnycoder
+  linkedin: christiandpg
+  github: christiandpg
+  gitlab: christiandpg
   twitter: johnnytweeter
   stackoverflow: 890226/johnnyststacker
 
@@ -25,7 +25,7 @@ summary:
 history:
   title: Experience
   roles:
-    - position: Lead Developer
+    - position: Sr QA Automation Engineer
       company: Startup Hubs
       location: San Francisco, CA
       time: 2015 - Present
