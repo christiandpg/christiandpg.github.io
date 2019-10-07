@@ -23,11 +23,14 @@
           {% if bio.gitlab %}
           <li class="mb-3"><a href="https://gitlab.com/{{ bio.gitlab }}"><span class="fa-container text-center mr-2"><i class="fab fa-gitlab fa-fw"></i></span>gitlab.com/{{ bio.gitlab }}</a></li>
           {% endif %}
-          {% if bio.twitter %}
-          <li class="mb-3"><a href="https://twitter.com/@{{ bio.twitter }}"><span class="fa-container text-center mr-2"><i class="fab fa-twitter fa-fw"></i></span>@{{ bio.twitter }}</a></li>
+          {% if bio.facebook %}
+          <li class="mb-3"><a href="https://facebook.com/@{{ bio.facebook }}"><span class="fa-container text-center mr-2"><i class="fab fa-facebook fa-fw"></i></span>facebook.com/{{ bio.facebook }}</a></li>
           {% endif %}
           {% if bio.stackoverflow%}
           <li><a href="https://stackoverflow.com/users/{{ bio.stackoverflow }}"><span class="fa-container text-center mr-2"><i class="fab fa-stack-overflow"></i></span>{{ bio.stackoverflow }}</a></li>
+          {% endif %}
+          {% if bio.instagram%}
+          <li><a href="https://instagram.com/{{ bio.instagram }}"><span class="fa-container text-center mr-2"><i class="fab fa-instagram fa-fw"></i></span>instagram.com/{{ bio.instagram }}}</a></li>
           {% endif %}
         </ul>
       </div><!--//secondary-info-->
