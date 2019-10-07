@@ -9,6 +9,7 @@ bio:
   github: christiandpg 
   facebook: christiandpg
 
+
 summary:
   title: Profile
   description: |
@@ -116,10 +117,12 @@ history:
         - name: Oracle
         - name: SQL Server
         - name: TFS
-       
+  
+
+
 
 skills:
-  testing:
+  frontend:
     - name: Selenium WebDriver
       percentage: 99
     - name: Appium
@@ -127,7 +130,7 @@ skills:
     - name: Cucumber
       percentage: 80
       
-  languages:
+  backend:
     - name: Java
       percentage: 80
     - name: Python
