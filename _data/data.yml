@@ -147,17 +147,10 @@ skills:
   
   other:
     - name: Oracle
-      percentage: 80
     - name: SQL Server
-      percentage: 80
     - name: MongoDB
-      percentage: 875
     - name: Jenkins
-      percentage: 80
     - name: TeamCity
-      percentage: 30
-
-  other:
     - name: Mac OS
     - name: Linux Ubuntu
     - name: Ant
