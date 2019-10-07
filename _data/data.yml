@@ -7,7 +7,6 @@ bio:
   website: christiandpg.github.io/
   linkedin: christiandpg
   github: christiandpg
-  twitter: crescemoreira
   facebook: christiandpg
   stackoverflow:
 
@@ -172,7 +171,7 @@ awards:
 
 education:
   - degree: BSc in Information Technology Management
-    name: Centro Universitario Maringá
+    name: Unicesumar
     time: 2019 - 2021 [In progress]
   - degree: BSc in Computer Engineering
     name: PUCRS
