@@ -6,8 +6,7 @@ bio:
   telephone: +55 51 981585142
   website: christiandpg.github.io/
   linkedin: christiandpg
-  github: christiandpg 
-  gitlab: leandrocrescencio
+  github: christiandpg
   twitter: crescemoreira
   facebook: christiandpg
   stackoverflow:
@@ -161,6 +160,14 @@ skills:
     - name: Ant
     - name: Gradle
     - name: Maven
+
+
+awards:
+  - name: ISTQB-CTFL
+    description: |
+      License 17-CTFL-06073-BR
+  - name: Scrum Alliance CSM
+    description: License 000635683
 
 
 education:
