@@ -8,7 +8,7 @@ scooter: &scooter "#328998"
 governor_bay: &governor_bay "#59578E"
 cosmic: &cosmic "#80425F"
 
-theme_color: *governor_bay
+theme_color: *cosmic
 description: Christian Goncalves - QA Automation Engineer
 repository: christiandpg/christiandpg.github.io
 
