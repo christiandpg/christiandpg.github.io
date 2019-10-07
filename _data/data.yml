@@ -1,16 +1,15 @@
 bio:
-  name: Christian Gonçalves
-  title: QA Automation Engineer
+  name: John Doe
+  title: An Awesome Developer
   avatar: profile.jpg
-  email: christiangoncalves@outlook.com
-  telephone: +55 51 981585142
-  website: christiandpg.github.io/
-  linkedin: christiandpg
-  github: christiandpg
-  gitlab: 
-  twitter: 
-  facebook: christiandpg
-  stackoverflow:
+  email: john@doe.com
+  telephone: 012 345 6789
+  website: johndoe.blogger.com
+  linkedin: johndoe
+  github: johnnycoder
+  gitlab: johnnycoder
+  twitter: johnnytweeter
+  stackoverflow: 890226/johnnyststacker
 
 
 summary:
