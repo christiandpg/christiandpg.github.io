@@ -117,8 +117,9 @@ history:
         - name: SQL Server
         - name: TFS
        
+
 skills:
-  testing frameworks:
+  testing:
     - name: Selenium WebDriver
       percentage: 99
     - name: Appium
@@ -126,7 +127,7 @@ skills:
     - name: Cucumber
       percentage: 80
       
-  programming languages:
+  languages:
     - name: Java
       percentage: 80
     - name: Python
@@ -159,6 +160,7 @@ skills:
     - name: Gradle
     - name: Maven
 
+
 education:
   - degree: BSc in Information Technology Management
     name: Centro Universitario Maringá
@@ -183,13 +185,3 @@ interests:
     icon: fas fa-utensils
   - name: Beer
     icon: fas fa-beer
-
-
-organizations:
-  - name: ISTQB
-    link: https://www.istqb.org
-    date: 2017
-
-  - name: Scrum Alliance
-    link: https://www.scrumalliance.org/
-    date: 2017
