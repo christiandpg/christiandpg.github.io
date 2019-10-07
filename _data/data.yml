@@ -145,12 +145,21 @@ skills:
     - name: Ruby
       percentage: 40
   
-  other:
-    - name: Oracle
-    - name: SQL Server
-    - name: MongoDB
+  ci:
     - name: Jenkins
+      percentage: 80
     - name: TeamCity
+      percentage: 40 
+
+  database:
+    - name: Oracle
+      percentage: 80
+    - name: SQL Server
+      percentage: 80
+    - name: MongoDB
+      percentage: 70
+  
+  other:
     - name: Mac OS
     - name: Linux Ubuntu
     - name: Ant
