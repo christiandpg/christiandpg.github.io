@@ -2,11 +2,11 @@
 <section class="resume-section skills-section mb-5">
   <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Skills &amp; Tools</h2>
   <div class="resume-section-content">
-    {% if skills.frontend %}
+    {% if skills.testing %}
     <div class="resume-skill-item">
         <h4 class="resume-skills-cat font-weight-bold">Frontend</h4>
         <ul class="list-unstyled">
-        {% for skill in skills.frontend %}
+        {% for skill in skills.testing %}
             <li class="mb-2">
                 <div class="resume-skill-name">{{ skill.name }}</div>
                 <div class="progress resume-progress">
@@ -18,11 +18,11 @@
     </div><!--//resume-skill-item-->
     {% endif %}
 
-    {% if skills.backend %}
+    {% if skills.languages %}
     <div class="resume-skill-item">
         <h4 class="resume-skills-cat font-weight-bold">Backend</h4>
         <ul class="list-unstyled">
-        {% for skill in skills.backend %}
+        {% for skill in skills.languages %}
             <li class="mb-2">
                 <div class="resume-skill-name">{{ skill.name }}</div>
                 <div class="progress resume-progress">

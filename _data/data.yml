@@ -125,7 +125,7 @@ history:
 
 
 skills:
-  frontend:
+  testing:
     - name: Selenium WebDriver
       percentage: 99
     - name: Appium
@@ -133,7 +133,7 @@ skills:
     - name: Cucumber
       percentage: 80
       
-  backend:
+  languages:
     - name: Java
       percentage: 80
     - name: Python
@@ -144,6 +144,8 @@ skills:
       percentage: 40
     - name: Ruby
       percentage: 40
+  
+  other:
     - name: Oracle
       percentage: 80
     - name: SQL Server
