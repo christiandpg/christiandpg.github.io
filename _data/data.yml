@@ -24,19 +24,36 @@ history:
   title: Experience
   roles:
     - position: Senior QA Automation Engineer
-      company: Venuetize
-      location: Tampa, FL
-      time: 10-2018 – Present
+      company: Codelink US
+      location: Remote
+      time: 03-2019 – Current
       description: |
-         - Automation of test scenarios for native Android and iOS apps.
-         - Specification of Plans, Scenarios, and Test Cases. Creation and execution of software tests for mobile applications.
+         - Responsible for writing automated scenarios for Web and Database applications;
+         - Specification of Test Plans, Test Scenarios and Test Cases;
          - Back-end and UI tests.
-         - Test and Defect Project Management.
+         - Regression testing, Exploratory testing, Integration testing, Smoke testing;
          - Responsible for all QA lifecycle.
-      achivements: |
-        * Complete framework for the mobile applications from the product.
       technologies:
         - name: Java
+        - name: Selenium Webdriver
+        - name: Git
+        - name: Gradle
+        - name: TestNG
+        - name: MySQL
+
+    - position: Senior QA Automation Engineer
+      company: Venuetize
+      location: Tampa, FL
+      time: 10-2018 – 03-2019
+      description: |
+         - Test Automation for native Android and iOS apps;
+         - Specification of Test Plans, Test Scenarios and Test Cases;
+         - Back-end and UI tests.
+         - Regression testing, exploratory testing, integration testing, smoke testing, sanity testing;
+         - Responsible for all QA lifecycle.
+      technologies:
+        - name: Java
+        - name: Ruby
         - name: Selenium Webdriver
         - name: Appium
         - name: Git
@@ -129,9 +146,17 @@ skills:
     - name: Selenium WebDriver
       percentage: 99
     - name: Appium
-      percentage: 90
+      percentage: 99
     - name: Cucumber
       percentage: 80
+    - name: Capybara
+      percentage: 50
+    - name: Cypress
+      percentage: 40
+    - name: Protractor
+      percentage: 30
+    - name: Sikuli
+      percentage: 30
       
   languages:
     - name: Java
@@ -140,10 +165,10 @@ skills:
       percentage: 50
     - name: Groovy
       percentage: 50
-    - name: C#
-      percentage: 40
     - name: Ruby
-      percentage: 40
+      percentage: 45
+    - name: C#
+      percentage: 45
   
   ci:
     - name: Jenkins
@@ -157,7 +182,7 @@ skills:
     - name: SQL Server
       percentage: 80
     - name: MongoDB
-      percentage: 70
+      percentage: 75
   
   other:
     - name: Mac OS
@@ -165,14 +190,6 @@ skills:
     - name: Ant
     - name: Gradle
     - name: Maven
-
-
-awards:
-  - name: ISTQB-CTFL
-    description: |
-      License 17-CTFL-06073-BR
-  - name: Scrum Alliance CSM
-    description: License 000635683
 
 
 education:
@@ -188,14 +205,3 @@ languages:
     proficiency: Native
   - name: English
     proficiency: Advanced
-    
-
-interests:
-  - name: Animals
-    icon: fas fa-paw
-  - name: Music
-    icon: fas fa-drum
-  - name: Cooking
-    icon: fas fa-utensils
-  - name: Beer
-    icon: fas fa-beer
