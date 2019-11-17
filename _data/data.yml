@@ -24,27 +24,9 @@ history:
   title: Experience
   roles:
     - position: Senior QA Automation Engineer
-      company: Codelink US
-      location: Remote
-      time: 03-2019 – Current
-      description: |
-         - Responsible for writing automated scenarios for Web and Database applications;
-         - Specification of Test Plans, Test Scenarios and Test Cases;
-         - Back-end and UI tests.
-         - Regression testing, Exploratory testing, Integration testing, Smoke testing;
-         - Responsible for all QA lifecycle.
-      technologies:
-        - name: Java
-        - name: Selenium Webdriver
-        - name: Git
-        - name: Gradle
-        - name: TestNG
-        - name: MySQL
-
-    - position: Senior QA Automation Engineer
       company: Venuetize
       location: Tampa, FL
-      time: 10-2018 – 03-2019
+      time: 2018-10 – Current
       description: |
          - Test Automation for native Android and iOS apps;
          - Specification of Test Plans, Test Scenarios and Test Cases;
@@ -60,12 +42,13 @@ history:
         - name: Maven
         - name: Selenium Hub
         - name: TestNG
+        - name: JUnit
 
     - position: Senior QA Automation Engineer
       # page_break: true
       company: CWI Software
       location: Porto Alegre, BR
-      time: 03-2016 - 10-2018
+      time: 2016-03 - 2018-10
       description: |
          - Automation of test scenarios for Android, iOS and Hybrid apps, Web applications, Desktop applications, webservices and database, using the most diverse tools and technologies available in the market.
          - Configuration and management of CI (continuous integration) with Jenkins and TeamCity.
@@ -94,7 +77,7 @@ history:
     - position: QA Automation Engineer
       company: Stefanini
       location: Porto Alegre, BR
-      time: 05-2015 – 01-2016
+      time: 2015-05 – 2016-01
       description: |
          - Automation of test scenarios using Selenium, Java and OATS (Oracle Application Test Suite). 
          - Manual testing, as well as creating all the artifacts involved. 
@@ -113,7 +96,7 @@ history:
     - position: Software QA Analyst
       company: DBC Company
       location: Porto Alegre, BR
-      time: 08-2014 – 05-2015
+      time: 2014-08 – 2015-05
       description: |
         - Testing and writing test artifacts in various business areas (industrial, retail, metallurgy). 
         - Estimates of testing on innovation projects and legacy system fixes. 
@@ -129,7 +112,7 @@ history:
     - position: Software QA Analyst
       company: TOTVS
       location: Porto Alegre, BR  
-      time: 10-2010 – 10-2014
+      time: 2010-10 – 2014-10
       description: |
         - Work on health business area, with systems for small clinics and large hospitals in Brazil. 
         - Informal leadership, making estimates to the development team and assigning tasks to the testers.
@@ -192,10 +175,16 @@ skills:
     - name: Maven
 
 
+awards:
+  - name: You Make the Difference
+    description: |
+      TOTVS | 2013
+
+
 education:
   - degree: BSc in Information Technology Management
     name: Unicesumar
-    time: 2019 - 2021 [In progress]
+    time: 2019 - 2020 [In progress]
   - degree: BSc in Computer Engineering
     name: PUCRS
     time: 2013 - 2019 [Unfinished]
@@ -205,3 +194,12 @@ languages:
     proficiency: Native
   - name: English
     proficiency: Advanced
+    
+
+interests:
+  - name: Soccer
+    icon: fas fa-paw
+  - name: Animals
+    icon: fas fa-drum
+  - name: Beer
+    icon: fas fa-beer
