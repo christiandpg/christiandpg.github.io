@@ -40,9 +40,11 @@ history:
         - name: Appium
         - name: Git
         - name: Maven
+        - name: Gradle
         - name: Selenium Hub
         - name: TestNG
         - name: JUnit
+        - name: Capybara
 
     - position: Senior QA Automation Engineer
       # page_break: true
