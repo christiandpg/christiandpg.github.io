@@ -16,9 +16,9 @@ bio:
 summary:
   title: Profile
   description: |
-    QA Automation Engineer, with 9 years experienced in IT market and acting in medium and large companies.
+    QA Automation Engineer, with 10 years experienced in IT market and acting in medium and large companies.
     Knowledge related to various processes of software engineering, as well as business areas: health, industrial, metallurgy, retail, fiscal, ecommerce, banking.
-    At the last years focused in development of automated testing for Web, Desktop, Mobile applications, Webservices and Databases using large variety of tools and technologies available.
+    At the last years focused in development of automated testing for Web, Desktop, Mobile applications, API's and Databases using large variety of tools and technologies available.
     Also have experience in teaching courses about Test Automation.
 history:
   title: Experience
@@ -146,13 +146,13 @@ skills:
   languages:
     - name: Java
       percentage: 80
-    - name: Python
+    - name: C#
+      percentage: 60
+    - name: Ruby
       percentage: 50
     - name: Groovy
-      percentage: 50
-    - name: Ruby
       percentage: 45
-    - name: C#
+    - name: Python
       percentage: 45
   
   ci:
